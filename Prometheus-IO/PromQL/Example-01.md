@@ -1,4 +1,4 @@
 ```bash
->Content:
+Content:
 
 ```
